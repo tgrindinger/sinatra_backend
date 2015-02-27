@@ -1,0 +1,4 @@
+Gemfile.lock
+development.db
+production.db
+add_data.sh
